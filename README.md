@@ -1,0 +1,2 @@
+# BugTracker
+Our school project.
